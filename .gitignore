@@ -1,0 +1,4 @@
+/test/local-storage-mock/*
+/coverage/*
+/node_modules/*
+.DS_Store

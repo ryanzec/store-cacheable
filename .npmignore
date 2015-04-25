@@ -1,0 +1,7 @@
+/test/*
+/coverage/*
+/node_modules/*
+/tasks/*
+.gitignore
+.DS_Store
+.editorconfig
